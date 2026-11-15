@@ -1,0 +1,15 @@
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\bin\Debug\net10.0\Practic_2.exe
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\bin\Debug\net10.0\Practic_2.deps.json
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\bin\Debug\net10.0\Practic_2.runtimeconfig.json
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\bin\Debug\net10.0\Practic_2.dll
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\bin\Debug\net10.0\Practic_2.pdb
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\obj\Debug\net10.0\Practic_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\obj\Debug\net10.0\Practic_2.AssemblyInfoInputs.cache
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\obj\Debug\net10.0\Practic_2.AssemblyInfo.cs
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\obj\Debug\net10.0\Practic_2.csproj.CoreCompileInputs.cache
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\obj\Debug\net10.0\Practic_2.dll
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\obj\Debug\net10.0\refint\Practic_2.dll
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\obj\Debug\net10.0\Practic_2.pdb
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\obj\Debug\net10.0\Practic_2.genruntimeconfig.cache
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\obj\Debug\net10.0\ref\Practic_2.dll
+C:\Users\Obama\Desktop\Новая папка\Projects\C#\Practic_2\Practic_2\obj\Debug\net10.0\Practic_2.csproj.Up2Date
